@@ -47,3 +47,14 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+
+# PlugIn options
+jekyll-archives:
+  enabled: all
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
