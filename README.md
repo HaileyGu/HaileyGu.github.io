@@ -19,7 +19,7 @@
 Type theme comes with different customizations in the `_config.yml` file:
 
 ```sh
-title:       Type
+title:       Hi :)
 email:       ''
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
