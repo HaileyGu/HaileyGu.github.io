@@ -48,7 +48,7 @@ defaults:
     values:
       permalink: /:basename:output_ext
 
-# PlugIn options
+# PlugIn configuration
 jekyll-archives:
   enabled: all
   layout: archive
