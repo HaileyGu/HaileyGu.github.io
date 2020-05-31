@@ -15,6 +15,7 @@ twitter:     ''
 github:      'https://github.com/HaileyGu'
 instagram:   ''
 facebook:    ''
+google_analytics: 'UA-168073440-1'
 
 markdown:  kramdown
 permalink: pretty
